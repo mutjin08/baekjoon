@@ -13,7 +13,7 @@
         <td>https://www.acmicpc.net/problem/2606</td>
         <td>실버3</td>
         <td>bfs</td>
-        <td>https://github.com/mutjin08/baekjoon/blob/main/Graph%20Traversal/2606_%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4_bfs.py</td>
+        <td>link</td>
     </tr>
     <tr>
         <td>2606</td>
@@ -21,6 +21,14 @@
         <td>https://www.acmicpc.net/problem/2606</td>
         <td>실버3</td>
         <td>dfs</td>
-        <td>https://github.com/mutjin08/baekjoon/blob/main/Graph%20Traversal/2606_%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4_dfs.py</td>
+        <td>link</td>
+    </tr>
+    <tr>
+        <td>1260</td>
+        <td>DFS와 BFS</td>
+        <td>https://www.acmicpc.net/problem/1260</td>
+        <td>실버2</td>
+        <td>dfs, bfs</td>
+        <td>link</td>
     </tr>
 </table>
