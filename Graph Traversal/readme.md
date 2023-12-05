@@ -44,7 +44,15 @@
         <td>효율적인 해킹</td>
         <td>https://www.acmicpc.net/problem/1325</td>
         <td>실버1</td>
-        <td></td>
+        <td>bfs</td>
+        <td>link</td>
+    </tr>
+    <tr>
+        <td>2178</td>
+        <td>미로 탐색</td>
+        <td>https://www.acmicpc.net/problem/2178</td>
+        <td>실버1</td>
+        <td>bfs</td>
         <td>link</td>
     </tr>
 </table>
