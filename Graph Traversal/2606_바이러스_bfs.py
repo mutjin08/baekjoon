@@ -1,8 +1,5 @@
 from collections import deque
 def bfs(graph, visited, v):
-    dx = [-1, 1, 0, 0]
-    dy = [0, 0, -1, 1]
-
     queue = deque([v])
     visited[v] = 1
 
