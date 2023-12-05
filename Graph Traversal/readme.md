@@ -31,4 +31,20 @@
         <td>dfs, bfs</td>
         <td>link</td>
     </tr>
+    <tr>
+        <td>11725</td>
+        <td>트리의 부모 찾기</td>
+        <td>https://www.acmicpc.net/problem/11725</td>
+        <td>실버2</td>
+        <td>bfs</td>
+        <td>link</td>
+    </tr>
+    <tr>
+        <td>1325</td>
+        <td>효율적인 해킹</td>
+        <td>https://www.acmicpc.net/problem/1325</td>
+        <td>실버1</td>
+        <td></td>
+        <td>link</td>
+    </tr>
 </table>
