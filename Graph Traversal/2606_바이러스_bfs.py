@@ -13,7 +13,7 @@ def bfs(graph, visited, v):
                 queue.append(i)
                 visited[i] = 1
 
-    return sum(visited)-1
+    return sum(visited)-1 #주의
 
 n = int(input())
 e = int(input())
