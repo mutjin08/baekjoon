@@ -55,4 +55,12 @@
         <td>bfs</td>
         <td>link</td>
     </tr>
+    <tr>
+        <td>2667</td>
+        <td>단지번호붙이기</td>
+        <td>https://www.acmicpc.net/problem/2667</td>
+        <td>실버1</td>
+        <td>bfs</td>
+        <td>link</td>
+    </tr>
 </table>
