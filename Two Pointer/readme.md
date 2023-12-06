@@ -1,4 +1,11 @@
 <h1>Two Pointer</h1>
+
+<h2>Lecture</h2>
+https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x14.md<br>
+https://blog.encrypted.gg/1004<br><br><br>
+
+https://github.com/tony9402/baekjoon/tree/main/two_pointer<br>
+
 <h2>Silver</h2>
 <table>
     <tr>
