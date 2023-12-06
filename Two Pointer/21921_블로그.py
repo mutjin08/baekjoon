@@ -1,19 +1,30 @@
-def solution(logs):
-    visits = []
+import sys
+input = sys.stdin.readline
 
-    max_log = max(logs)
-    if max_log == 0:
-        return "SAD"
+def solution():
+    if max(logs) == 0:
+        #주의
+        return ["SAD"]
     
-    for i in range(0, len(logs) - x):
-        visits.append(sum(logs[i:i+x]))
+    # 주의
+    val = sum(logs[0:x])
+    cnt, max_val = 1, val
+    for i in range(x, n):
+        val -= logs[i-x]
+        val += logs[i]
+        if val > max_val:
+            max_val = val
+            cnt = 1
+        elif val == max_val:
+            cnt +=1
+        else:
+            continue
 
-    max_visit = max(visits)
-    return max_visit, visits.count(max_visit)
+    return [max_val, cnt]
 
 
 n, x = map(int, input().split())
 logs = list(map(int, input().split()))
 
-for i in solution(logs):
+for i in solution():
     print(i)

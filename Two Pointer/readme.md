@@ -15,13 +15,20 @@
         <td>two pointer</td>
         <td>link</td>
     </tr>
-
     <tr>
         <td>21921</td>
         <td>블로그</td>
         <td>https://www.acmicpc.net/problem/21921</td>
         <td>실버3</td>
-        <td>sliding window</td>
+        <td>sliding window + a</td>
+        <td>link</td>
+    </tr>
+    <tr>
+        <td>20922</td>
+        <td>겹치는 건 싫어</td>
+        <td>https://www.acmicpc.net/problem/20922</td>
+        <td>실버1</td>
+        <td>two pointer</td>
         <td>link</td>
     </tr>
 </table>
