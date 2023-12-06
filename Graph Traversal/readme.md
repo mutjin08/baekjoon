@@ -1,3 +1,5 @@
+<h1>Graph Traversal</h1>
+<h2>silver</h2>
 <table>
     <tr>
         <th scope="col">번호</td>
