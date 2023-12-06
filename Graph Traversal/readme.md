@@ -63,4 +63,12 @@
         <td>bfs</td>
         <td>link</td>
     </tr>
+    <tr>
+        <td>16918</td>
+        <td>봄버맨</td>
+        <td>https://www.acmicpc.net/problem/16918</td>
+        <td>실버1</td>
+        <td>bfs</td>
+        <td>link</td>
+    </tr>
 </table>
