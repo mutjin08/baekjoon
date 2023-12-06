@@ -41,3 +41,31 @@ https://github.com/tony9402/baekjoon/tree/main/two_pointer<br>
         <td>link</td>
     </tr>
 </table>
+
+<h2>Gold</h2>
+<table>
+    <tr>
+        <th scope="col">번호</td>
+        <th scope="col">문제</td>
+        <th scope="col">문제링크</td>
+        <th scope="col">난이도</td>
+        <th scope="col">알고리즘</td>
+        <th scope="col">풀이링크</td>
+    </tr>
+    <tr>
+        <td>2470</td>
+        <td>두 용액</td>
+        <td>https://www.acmicpc.net/problem/2470</td>
+        <td>골드5</td>
+        <td>two pointer</td>
+        <td>link</td>
+    </tr>
+    <tr>
+        <td>22862</td>
+        <td>가장 긴 짝수 연속한 부분 수열 (large)</td>
+        <td>https://www.acmicpc.net/problem/22862</td>
+        <td>골드5</td>
+        <td>two pointer</td>
+        <td>link</td>
+    </tr>
+</table>
