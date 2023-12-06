@@ -68,4 +68,12 @@ https://github.com/tony9402/baekjoon/tree/main/two_pointer<br>
         <td>two pointer</td>
         <td>link</td>
     </tr>
+    <tr>
+        <td>15961</td>
+        <td>회전 초밥</td>
+        <td>https://www.acmicpc.net/problem/15961</td>
+        <td>골드4</td>
+        <td>two pointer</td>
+        <td>link</td>
+    </tr>
 </table>
