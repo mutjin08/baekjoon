@@ -74,17 +74,17 @@ https://github.com/tony9402/baekjoon/tree/main/implementation<br>
         <td>link</td>
     </tr>
     <tr>
-        <td>20546</td>
-        <td>기적의 매매법</td>
-        <td>https://www.acmicpc.net/problem/20546</td>
+        <td>1244</td>
+        <td>스위치 켜고 끄기</td>
+        <td>https://www.acmicpc.net/problem/1244</td>
         <td>실버5</td>
         <td>implementation</td>
         <td>link</td>
     </tr>
     <tr>
-        <td>20546</td>
-        <td>기적의 매매법</td>
-        <td>https://www.acmicpc.net/problem/20546</td>
+        <td>10994</td>
+        <td>별 찍기 - 19</td>
+        <td>https://www.acmicpc.net/problem/10994</td>
         <td>실버5</td>
         <td>implementation</td>
         <td>link</td>
