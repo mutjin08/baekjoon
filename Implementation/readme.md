@@ -3,6 +3,42 @@
 <h2>Lecture</h2>
 https://github.com/tony9402/baekjoon/tree/main/implementation<br>
 
+<h2>Bronze</h2>
+<table>
+    <tr>
+        <th scope="col">번호</td>
+        <th scope="col">문제</td>
+        <th scope="col">문제링크</td>
+        <th scope="col">난이도</td>
+        <th scope="col">알고리즘</td>
+        <th scope="col">풀이링크</td>
+    </tr>
+    <tr>
+        <td>2753</td>
+        <td>윤년</td>
+        <td>https://www.acmicpc.net/problem/2753</td>
+        <td>브론즈5</td>
+        <td>implementation</td>
+        <td>link</td>
+    </tr>
+    <tr>
+        <td>5597</td>
+        <td>과제 안 내신 분</td>
+        <td>https://www.acmicpc.net/problem/5597</td>
+        <td>브론즈5</td>
+        <td>implementation</td>
+        <td>link</td>
+    </tr>
+    <tr>
+        <td>20053</td>
+        <td>최소, 최대 2</td>
+        <td>https://www.acmicpc.net/problem/20053</td>
+        <td>브론즈3</td>
+        <td>implementation</td>
+        <td>link</td>
+    </tr>
+</table>
+
 <h2>Silver</h2>
 <table>
     <tr>
