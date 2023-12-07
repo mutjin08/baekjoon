@@ -1,3 +1,7 @@
+#주의
+import sys
+input = sys.stdin.readline
+
 def solution():
     answer = 0
     s, e = 0, 0
@@ -6,7 +10,7 @@ def solution():
     while s!=n :
         e = s + k
         case = set()
-        cnt, gift = 0, True
+        gift = True
 
         for i in range(s, e):
             i %= n #주의
@@ -16,13 +20,16 @@ def solution():
             if rices[i] == c:
                 gift = False
 
+        cnt = len(case)
         if gift:
             cnt+=1
-        cnt = len(case)
 
         answer = max(answer, cnt)
+        
+        if answer == k+1:
+            return answer
         s+=1
-
+        
     return answer
 
 n, d, c, k = map(int, input().split())
