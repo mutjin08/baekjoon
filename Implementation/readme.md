@@ -50,11 +50,59 @@ https://github.com/tony9402/baekjoon/tree/main/implementation<br>
         <th scope="col">풀이링크</td>
     </tr>
     <tr>
-        <td>11728</td>
-        <td>배열 합치기</td>
-        <td>https://www.acmicpc.net/problem/11728</td>
+        <td>20546</td>
+        <td>기적의 매매법</td>
+        <td>https://www.acmicpc.net/problem/20546</td>
         <td>실버5</td>
-        <td>two pointer</td>
+        <td>implementation</td>
+        <td>link</td>
+    </tr>
+    <tr>
+        <td>2578</td>
+        <td>빙고</td>
+        <td>https://www.acmicpc.net/problem/2578</td>
+        <td>실버4</td>
+        <td>implementation</td>
+        <td>link</td>
+    </tr>
+    <tr>
+        <td>4396</td>
+        <td>지뢰 찾기</td>
+        <td>https://www.acmicpc.net/problem/4396</td>
+        <td>실버4</td>
+        <td>implementation</td>
+        <td>link</td>
+    </tr>
+    <tr>
+        <td>20546</td>
+        <td>기적의 매매법</td>
+        <td>https://www.acmicpc.net/problem/20546</td>
+        <td>실버5</td>
+        <td>implementation</td>
+        <td>link</td>
+    </tr>
+    <tr>
+        <td>20546</td>
+        <td>기적의 매매법</td>
+        <td>https://www.acmicpc.net/problem/20546</td>
+        <td>실버5</td>
+        <td>implementation</td>
+        <td>link</td>
+    </tr>
+    <tr>
+        <td>20546</td>
+        <td>기적의 매매법</td>
+        <td>https://www.acmicpc.net/problem/20546</td>
+        <td>실버5</td>
+        <td>implementation</td>
+        <td>link</td>
+    </tr>
+    <tr>
+        <td>20546</td>
+        <td>기적의 매매법</td>
+        <td>https://www.acmicpc.net/problem/20546</td>
+        <td>실버5</td>
+        <td>implementation</td>
         <td>link</td>
     </tr>
 </table>
