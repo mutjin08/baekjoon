@@ -90,18 +90,66 @@ https://github.com/tony9402/baekjoon/tree/main/implementation<br>
         <td>link</td>
     </tr>
     <tr>
-        <td>20546</td>
-        <td>기적의 매매법</td>
-        <td>https://www.acmicpc.net/problem/20546</td>
-        <td>실버5</td>
+        <td>20436</td>
+        <td>ZOAC 3</td>
+        <td>https://www.acmicpc.net/problem/20436</td>
+        <td>실버4</td>
         <td>implementation</td>
         <td>link</td>
     </tr>
     <tr>
-        <td>20546</td>
-        <td>기적의 매매법</td>
-        <td>https://www.acmicpc.net/problem/20546</td>
-        <td>실버5</td>
+        <td>1913</td>
+        <td>달팽이</td>
+        <td>https://www.acmicpc.net/problem/1913</td>
+        <td>실버3</td>
+        <td>implementation</td>
+        <td>link</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>https://www.acmicpc.net/problem/</td>
+        <td>실버</td>
+        <td>implementation</td>
+        <td>link</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>https://www.acmicpc.net/problem/</td>
+        <td>실버</td>
+        <td>implementation</td>
+        <td>link</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>https://www.acmicpc.net/problem/</td>
+        <td>실버</td>
+        <td>implementation</td>
+        <td>link</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>https://www.acmicpc.net/problem/</td>
+        <td>실버</td>
+        <td>implementation</td>
+        <td>link</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>https://www.acmicpc.net/problem/</td>
+        <td>실버</td>
+        <td>implementation</td>
+        <td>link</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>https://www.acmicpc.net/problem/</td>
+        <td>실버</td>
         <td>implementation</td>
         <td>link</td>
     </tr>
