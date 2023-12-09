@@ -1,5 +1,5 @@
 def make_board():
-    board_size = n + (3*(n-1))
+    board_size = n + (3*(n-1)) #주의
     return [["*" for _ in range(board_size)] for _ in range(board_size)]
 
 def fill_board(s, board, c):

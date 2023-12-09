@@ -106,10 +106,10 @@ https://github.com/tony9402/baekjoon/tree/main/implementation<br>
         <td>link</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td>https://www.acmicpc.net/problem/</td>
-        <td>실버</td>
+        <td>12933</td>
+        <td>오리</td>
+        <td>https://www.acmicpc.net/problem/12933</td>
+        <td>실버3</td>
         <td>implementation</td>
         <td>link</td>
     </tr>
@@ -166,11 +166,43 @@ https://github.com/tony9402/baekjoon/tree/main/implementation<br>
         <th scope="col">풀이링크</td>
     </tr>
     <tr>
-        <td>2470</td>
-        <td>두 용액</td>
-        <td>https://www.acmicpc.net/problem/2470</td>
-        <td>골드5</td>
-        <td>two pointer</td>
+        <td></td>
+        <td></td>
+        <td>https://www.acmicpc.net/problem/</td>
+        <td>골드</td>
+        <td>implementation</td>
+        <td>link</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>https://www.acmicpc.net/problem/</td>
+        <td>골드</td>
+        <td>implementation</td>
+        <td>link</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>https://www.acmicpc.net/problem/</td>
+        <td>골드</td>
+        <td>implementation</td>
+        <td>link</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>https://www.acmicpc.net/problem/</td>
+        <td>골드</td>
+        <td>implementation</td>
+        <td>link</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>https://www.acmicpc.net/problem/</td>
+        <td>골드</td>
+        <td>implementation</td>
         <td>link</td>
     </tr>
 </table>
