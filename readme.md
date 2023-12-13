@@ -1,7 +1,7 @@
 <h1>Algo</h1>
 
 <h2>Lecture</h2>
-https://github.com/tony9402/baekjoon/tree/main/tree<br>
+https://github.com/tony9402/baekjoon/tree/main/Algo<br>
 
 <h2>Silver</h2>
 <table>

@@ -1,4 +1,4 @@
-<h1>Two Pointer</h1>
+<h1>Tree</h1>
 
 <h2>Lecture</h2>
 https://github.com/tony9402/baekjoon/tree/main/tree<br>
