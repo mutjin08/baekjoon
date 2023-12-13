@@ -141,6 +141,30 @@ https://github.com/tony9402/baekjoon/tree/main/implementation<br>
         <td>17276</td>
         <td>배열 돌리기</td>
         <td>https://www.acmicpc.net/problem/17276</td>
+        <td>실버2</td>
+        <td>implementation</td>
+        <td>link</td>
+    </tr>
+    <tr>
+        <td>15787</td>
+        <td>기차가 어둠을 헤치고 은하수를</td>
+        <td>https://www.acmicpc.net/problem/15787</td>
+        <td>실버2</td>
+        <td>implementation</td>
+        <td>link</td>
+    </tr>
+    <tr>
+        <td>2615</td>
+        <td>오목</td>
+        <td>https://www.acmicpc.net/problem/2615</td>
+        <td>실버1</td>
+        <td>implementation</td>
+        <td>link</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>https://www.acmicpc.net/problem/</td>
         <td>실버</td>
         <td>implementation</td>
         <td>link</td>
