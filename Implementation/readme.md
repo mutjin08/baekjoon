@@ -122,25 +122,25 @@ https://github.com/tony9402/baekjoon/tree/main/implementation<br>
         <td>link</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td>https://www.acmicpc.net/problem/</td>
-        <td>실버</td>
+        <td>17413</td>
+        <td>단어 뒤집기 2</td>
+        <td>https://www.acmicpc.net/problem/17413</td>
+        <td>실버3</td>
         <td>implementation</td>
         <td>link</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td>https://www.acmicpc.net/problem/</td>
-        <td>실버</td>
+        <td>22858</td>
+        <td>원상 복구 (small)</td>
+        <td>https://www.acmicpc.net/problem/22858</td>
+        <td>실버3</td>
         <td>implementation</td>
         <td>link</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td>https://www.acmicpc.net/problem/</td>
+        <td>17276</td>
+        <td>배열 돌리기</td>
+        <td>https://www.acmicpc.net/problem/17276</td>
         <td>실버</td>
         <td>implementation</td>
         <td>link</td>
