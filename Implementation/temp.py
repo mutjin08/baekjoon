@@ -1,38 +1,29 @@
-def is_omok(n, board, x, y):
-    color = board[x][y]
-    dx = [1, 0, 1, -1]
-    dy = [0, 1, 1, 1]
-    for i in range(4):
-        cnt = 0
-        nx, ny = x, y
+def spin1(arr, n, m):
+    new_arr = [[0 for _ in range(m)] for _ in range(n)]
+    x, y = 0, 0
+    for _ in range(n-1):
+        new_arr[x+1][y] = arr[x][y]
+        x+=1
+    for _ in range(m-1):
+        new_arr[x][y+1] = arr[x][y]
+        y+=1
+    for _ in range(n-1):
+        new_arr[x-1][y] = arr[x][y]
+        x-=1
+    for _ in range(m-1):
+        new_arr[x][y-1] = arr[x][y]
+        y-=1
+    return new_arr
 
-        if 0<=nx-dx[i]<n and 0<=ny-dy[i]<n and board[nx-dx[i]][ny-dy[i]]==color:
-            continue
+def solution(arr, n, m, r):
+    for _ in range(r):
+        arr = spin1(arr, n, m)
+    return arr
 
-        while 0<=nx<n and 0<=ny<n and board[nx][ny]==color:
-            cnt+=1
-            nx += dx[i]
-            ny += dy[i]
-
-        if cnt==5:
-            return True
-    return False
-
-def solution(n, board):
-    for i in range(n):
-        for j in range(n):
-            if board[i][j]==0:
-                continue
-            if is_omok(n, board, i, j):
-                print(board[i][j])
-                print(i, j)
-                exit()
-    print(0, 0)
-    exit()
-
-n = 19
-board = []
+n, m, r = map(int, input().split())
+arr = []
 for _ in range(n):
-    board.append(list(map(int, input().split())))
+    arr.append(list(map(int, input().split())))
 
-solution(n, board)
+for s in solution(arr, n, m, r):
+    print(*s)

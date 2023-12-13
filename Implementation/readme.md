@@ -162,10 +162,10 @@ https://github.com/tony9402/baekjoon/tree/main/implementation<br>
         <td>link</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td>https://www.acmicpc.net/problem/</td>
-        <td>실버</td>
+        <td>16926</td>
+        <td>배열 돌리기 1</td>
+        <td>https://www.acmicpc.net/problem/16926</td>
+        <td>실버1</td>
         <td>implementation</td>
         <td>link</td>
     </tr>
