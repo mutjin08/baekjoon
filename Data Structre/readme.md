@@ -19,7 +19,7 @@ https://github.com/tony9402/baekjoon/tree/main/data_structure<br>
         <td>https://www.acmicpc.net/problem/10828</td>
         <td>실버4</td>
         <td>Data Structre</td>
-        <td></td>
+        <td>N</td>
     </tr>
     <tr>
         <td>9012</td>
@@ -27,7 +27,7 @@ https://github.com/tony9402/baekjoon/tree/main/data_structure<br>
         <td>https://www.acmicpc.net/problem/9012</td>
         <td>실버4</td>
         <td>Data Structre</td>
-        <td></td>
+        <td>N</td>
     </tr>
     <tr>
         <td>18258</td>
@@ -35,7 +35,7 @@ https://github.com/tony9402/baekjoon/tree/main/data_structure<br>
         <td>https://www.acmicpc.net/problem/18258</td>
         <td>실버4</td>
         <td>Data Structre</td>
-        <td></td>
+        <td>N</td>
     </tr>
     <tr>
         <td>1158</td>
@@ -51,13 +51,13 @@ https://github.com/tony9402/baekjoon/tree/main/data_structure<br>
         <td>https://www.acmicpc.net/problem/2164</td>
         <td>실버4</td>
         <td>Data Structre</td>
-        <td>link</td>
+        <td>N</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td>https://www.acmicpc.net/problem/</td>
-        <td>실버</td>
+        <td>10866</td>
+        <td>덱</td>
+        <td>https://www.acmicpc.net/problem/10866</td>
+        <td>실버4</td>
         <td>Data Structre</td>
         <td>link</td>
     </tr>
