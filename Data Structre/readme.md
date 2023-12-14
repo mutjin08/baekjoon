@@ -59,7 +59,15 @@ https://github.com/tony9402/baekjoon/tree/main/data_structure<br>
         <td>https://www.acmicpc.net/problem/10866</td>
         <td>실버4</td>
         <td>Data Structre</td>
-        <td>link</td>
+        <td>N</td>
+    </tr>
+    <tr>
+        <td>1935</td>
+        <td>후위 표기식2</td>
+        <td>https://www.acmicpc.net/problem/1935</td>
+        <td>실버3</td>
+        <td>Data Structre</td>
+        <td>AGAIN</td>
     </tr>
     <tr>
         <td></td>
