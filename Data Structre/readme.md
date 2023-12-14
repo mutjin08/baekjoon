@@ -11,15 +11,15 @@ https://github.com/tony9402/baekjoon/tree/main/data_structure<br>
         <th scope="col">문제링크</td>
         <th scope="col">난이도</td>
         <th scope="col">알고리즘</td>
-        <th scope="col">풀이링크</td>
+        <th scope="col">다시보기</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td>https://www.acmicpc.net/problem/</td>
-        <td>실버</td>
+        <td>10828</td>
+        <td>스택</td>
+        <td>https://www.acmicpc.net/problem/10828</td>
+        <td>실버4</td>
         <td>Data Structre</td>
-        <td>link</td>
+        <td>NO</td>
     </tr>
     <tr>
         <td></td>
