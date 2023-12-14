@@ -19,37 +19,37 @@ https://github.com/tony9402/baekjoon/tree/main/data_structure<br>
         <td>https://www.acmicpc.net/problem/10828</td>
         <td>실버4</td>
         <td>Data Structre</td>
-        <td>NO</td>
+        <td></td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td>https://www.acmicpc.net/problem/</td>
-        <td>실버</td>
+        <td>9012</td>
+        <td>괄호</td>
+        <td>https://www.acmicpc.net/problem/9012</td>
+        <td>실버4</td>
         <td>Data Structre</td>
-        <td>link</td>
+        <td></td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td>https://www.acmicpc.net/problem/</td>
-        <td>실버</td>
+        <td>18258</td>
+        <td>큐 2</td>
+        <td>https://www.acmicpc.net/problem/18258</td>
+        <td>실버4</td>
         <td>Data Structre</td>
-        <td>link</td>
+        <td></td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td>https://www.acmicpc.net/problem/</td>
-        <td>실버</td>
+        <td>1158</td>
+        <td>요세푸스 문제</td>
+        <td>https://www.acmicpc.net/problem/1158</td>
+        <td>실버4</td>
         <td>Data Structre</td>
-        <td>link</td>
+        <td>AGAIN</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td>https://www.acmicpc.net/problem/</td>
-        <td>실버</td>
+        <td>2164</td>
+        <td>카드2</td>
+        <td>https://www.acmicpc.net/problem/2164</td>
+        <td>실버4</td>
         <td>Data Structre</td>
         <td>link</td>
     </tr>
