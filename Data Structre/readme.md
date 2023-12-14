@@ -70,12 +70,12 @@ https://github.com/tony9402/baekjoon/tree/main/data_structure<br>
         <td>AGAIN</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td>https://www.acmicpc.net/problem/</td>
-        <td>실버</td>
+        <td>1966</td>
+        <td>프린터 큐</td>
+        <td>https://www.acmicpc.net/problem/1966</td>
+        <td>실버3</td>
         <td>Data Structre</td>
-        <td>link</td>
+        <td>AGAIN</td>
     </tr>
     <tr>
         <td></td>
