@@ -15,6 +15,7 @@ def solution(string):
             #주의
             if string[i-1]=="(":
                 answer += val
+            #주의
             stack.pop()
             val //= 2
         elif string[i]=="]":
@@ -26,6 +27,10 @@ def solution(string):
             val //= 3
         else:
             continue
+    
+    #주의
+    if stack:
+        return 0
     return answer
 
 string = input()

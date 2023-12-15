@@ -1,4 +1,4 @@
-<h1>Data Structre</h1>
+<h1>Data Structre 1</h1>
 
 <h2>Lecture</h2>
 https://github.com/tony9402/baekjoon/tree/main/data_structure<br>
@@ -107,7 +107,7 @@ https://github.com/tony9402/baekjoon/tree/main/data_structure<br>
         <td>https://www.acmicpc.net/problem/</td>
         <td>실버</td>
         <td>Data Structre</td>
-        <td>link</td>
+        <td></td>
     </tr>
 </table>
 
