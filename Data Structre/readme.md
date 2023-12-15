@@ -78,6 +78,14 @@ https://github.com/tony9402/baekjoon/tree/main/data_structure<br>
         <td>AGAIN</td>
     </tr>
     <tr>
+        <td>2346</td>
+        <td>풍선 터뜨리기</td>
+        <td>https://www.acmicpc.net/problem/2346</td>
+        <td>실버3</td>
+        <td>Data Structre</td>
+        <td>AGAIN</td>
+    </tr>
+    <tr>
         <td></td>
         <td></td>
         <td>https://www.acmicpc.net/problem/</td>
