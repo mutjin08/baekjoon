@@ -14,6 +14,46 @@ https://github.com/tony9402/baekjoon/tree/main/data_structure2<br>
         <th scope="col">다시보기</td>
     </tr>
     <tr>
+        <td>1620</td>
+        <td>나는야 포켓몬 마스터 이다솜</td>
+        <td>https://www.acmicpc.net/problem/1620</td>
+        <td>실버4</td>
+        <td>Data Structre</td>
+        <td>NO</td>
+    </tr>
+    <tr>
+        <td>14425</td>
+        <td>문자열 집합</td>
+        <td>https://www.acmicpc.net/problem/14425</td>
+        <td>실버4</td>
+        <td>Data Structre</td>
+        <td>AGAIN</td>
+    </tr>
+    <tr>
+        <td>11279</td>
+        <td>최대 힙</td>
+        <td>https://www.acmicpc.net/problem/11279</td>
+        <td>실버2</td>
+        <td>Data Structre</td>
+        <td>AGAIN</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>https://www.acmicpc.net/problem/</td>
+        <td>실버</td>
+        <td>Data Structre</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>https://www.acmicpc.net/problem/</td>
+        <td>실버</td>
+        <td>Data Structre</td>
+        <td></td>
+    </tr>
+    <tr>
         <td></td>
         <td></td>
         <td>https://www.acmicpc.net/problem/</td>
