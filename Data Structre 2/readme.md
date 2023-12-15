@@ -18,7 +18,7 @@ https://github.com/tony9402/baekjoon/tree/main/data_structure2<br>
         <td>나는야 포켓몬 마스터 이다솜</td>
         <td>https://www.acmicpc.net/problem/1620</td>
         <td>실버4</td>
-        <td>Data Structre</td>
+        <td>dictionary</td>
         <td>NO</td>
     </tr>
     <tr>
@@ -26,7 +26,7 @@ https://github.com/tony9402/baekjoon/tree/main/data_structure2<br>
         <td>문자열 집합</td>
         <td>https://www.acmicpc.net/problem/14425</td>
         <td>실버4</td>
-        <td>Data Structre</td>
+        <td>dictionary</td>
         <td>AGAIN</td>
     </tr>
     <tr>
@@ -34,32 +34,32 @@ https://github.com/tony9402/baekjoon/tree/main/data_structure2<br>
         <td>최대 힙</td>
         <td>https://www.acmicpc.net/problem/11279</td>
         <td>실버2</td>
-        <td>Data Structre</td>
+        <td>heap</td>
         <td>AGAIN</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td>https://www.acmicpc.net/problem/</td>
-        <td>실버</td>
-        <td>Data Structre</td>
-        <td></td>
+        <td>2075</td>
+        <td>N번째 큰 수</td>
+        <td>https://www.acmicpc.net/problem/2075</td>
+        <td>실버2</td>
+        <td>heap</td>
+        <td>AGAIN</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td>https://www.acmicpc.net/problem/</td>
-        <td>실버</td>
-        <td>Data Structre</td>
-        <td></td>
+        <td>4358</td>
+        <td>생태학</td>
+        <td>https://www.acmicpc.net/problem/4358</td>
+        <td>실버2</td>
+        <td>dictionary</td>
+        <td>AGAIN</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td>https://www.acmicpc.net/problem/</td>
-        <td>실버</td>
-        <td>Data Structre</td>
-        <td></td>
+        <td>11286</td>
+        <td>절댓값 힙</td>
+        <td>https://www.acmicpc.net/problem/11286</td>
+        <td>실버1</td>
+        <td>heap</td>
+        <td>AGAIN</td>
     </tr>
 </table>
 
