@@ -86,20 +86,20 @@ https://github.com/tony9402/baekjoon/tree/main/data_structure<br>
         <td>AGAIN</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td>https://www.acmicpc.net/problem/</td>
-        <td>실버</td>
+        <td>1874</td>
+        <td>스택 수열</td>
+        <td>https://www.acmicpc.net/problem/1874</td>
+        <td>실버2</td>
         <td>Data Structre</td>
-        <td>link</td>
+        <td>AGAIN</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td>https://www.acmicpc.net/problem/</td>
-        <td>실버</td>
+        <td>10799</td>
+        <td>쇠막대기</td>
+        <td>https://www.acmicpc.net/problem/10799</td>
+        <td>실버2</td>
         <td>Data Structre</td>
-        <td>link</td>
+        <td>AGAIN</td>
     </tr>
     <tr>
         <td></td>
