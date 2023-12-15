@@ -1,6 +1,6 @@
 from collections import deque
-#위-아래
 
+#위-아래
 def solution(n):
     cards = deque([i for i in range(1, n+1)])
 
