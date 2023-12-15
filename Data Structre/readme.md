@@ -122,11 +122,27 @@ https://github.com/tony9402/baekjoon/tree/main/data_structure<br>
         <th scope="col">풀이링크</td>
     </tr>
     <tr>
+        <td>2504</td>
+        <td>괄호의 값</td>
+        <td>https://www.acmicpc.net/problem/2504</td>
+        <td>골드5</td>
+        <td>Data Structre</td>
+        <td>AGAIN</td>
+    </tr>
+    <tr>
         <td></td>
         <td></td>
         <td>https://www.acmicpc.net/problem/</td>
         <td>골드</td>
         <td>Data Structre</td>
-        <td>link</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>https://www.acmicpc.net/problem/</td>
+        <td>골드</td>
+        <td>Data Structre</td>
+        <td></td>
     </tr>
 </table>
