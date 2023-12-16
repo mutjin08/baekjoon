@@ -18,7 +18,7 @@ https://github.com/tony9402/baekjoon/tree/main/math<br>
         <td>LCM</td>
         <td>https://www.acmicpc.net/problem/5347</td>
         <td>실버5</td>
-        <td>Math</td>
+        <td>lcm, gcd</td>
         <td>AGAIN</td>
     </tr>
     <tr>
@@ -26,7 +26,7 @@ https://github.com/tony9402/baekjoon/tree/main/math<br>
         <td>에라토스테네스의 체</td>
         <td>https://www.acmicpc.net/problem/2690</td>
         <td>실버4</td>
-        <td>Math</td>
+        <td>prime</td>
         <td>AGAIN</td>
     </tr>
     <tr>
@@ -34,24 +34,24 @@ https://github.com/tony9402/baekjoon/tree/main/math<br>
         <td>GCD 합</td>
         <td>https://www.acmicpc.net/problem/9613</td>
         <td>실버4</td>
-        <td>Math</td>
+        <td>gcd</td>
         <td>NO</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td>https://www.acmicpc.net/problem/</td>
-        <td>실버</td>
-        <td>Math</td>
-        <td></td>
+        <td>4134</td>
+        <td>다음 소수</td>
+        <td>https://www.acmicpc.net/problem/4134</td>
+        <td>실버4</td>
+        <td>prime</td>
+        <td>NO</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td>https://www.acmicpc.net/problem/</td>
-        <td>실버</td>
-        <td>Math</td>
-        <td></td>
+        <td>21920</td>
+        <td>서로소 평균</td>
+        <td>https://www.acmicpc.net/problem/21920</td>
+        <td>실버4</td>
+        <td>gcd</td>
+        <td>AGAIN</td>
     </tr>
     <tr>
         <td></td>
