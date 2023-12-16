@@ -14,10 +14,10 @@ https://github.com/tony9402/baekjoon/tree/main/tree<br>
         <th scope="col">풀이링크</td>
     </tr>
     <tr>
-        <td>6416</td>
-        <td>트리인가?</td>
-        <td>https://www.acmicpc.net/problem/6416</td>
+        <td></td>
         <td>?</td>
+        <td>https://www.acmicpc.net/problem/</td>
+        <td></td>
         <td>tree</td>
         <td>link</td>
     </tr>
