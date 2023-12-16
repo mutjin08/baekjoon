@@ -27,15 +27,15 @@ https://github.com/tony9402/baekjoon/tree/main/math<br>
         <td>https://www.acmicpc.net/problem/2690</td>
         <td>실버4</td>
         <td>Math</td>
-        <td></td>
+        <td>AGAIN</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td>https://www.acmicpc.net/problem/</td>
-        <td>실버</td>
+        <td>9613</td>
+        <td>GCD 합</td>
+        <td>https://www.acmicpc.net/problem/9613</td>
+        <td>실버4</td>
         <td>Math</td>
-        <td></td>
+        <td>NO</td>
     </tr>
     <tr>
         <td></td>
