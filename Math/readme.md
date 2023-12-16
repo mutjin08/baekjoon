@@ -14,12 +14,12 @@ https://github.com/tony9402/baekjoon/tree/main/math<br>
         <th scope="col">풀이링크</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td>https://www.acmicpc.net/problem/</td>
-        <td>실버</td>
+        <td>5347</td>
+        <td>LCM</td>
+        <td>https://www.acmicpc.net/problem/5347</td>
+        <td>실버5</td>
         <td>Math</td>
-        <td></td>
+        <td>AGAIN</td>
     </tr>
     <tr>
         <td></td>
@@ -86,7 +86,7 @@ https://github.com/tony9402/baekjoon/tree/main/math<br>
         <td></td>
         <td>https://www.acmicpc.net/problem/</td>
         <td>골드</td>
-        <td></td>
+        <td>Math</td>
         <td></td>
     </tr>
 </table>
