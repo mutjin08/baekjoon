@@ -54,16 +54,16 @@ https://github.com/tony9402/baekjoon/tree/main/tree<br>
         <td>완전 이진 트리</td>
         <td>https://www.acmicpc.net/problem/9934</td>
         <td>실버1</td>
-        <td>tree</td>
-        <td>link</td>
+        <td>recursion</td>
+        <td>AGAIN</td>
     </tr>
     <tr>
         <td>14675</td>
         <td>단절점과 단절선</td>
         <td>https://www.acmicpc.net/problem/14675</td>
         <td>실버1</td>
-        <td>tree</td>
-        <td>link</td>
+        <td>tree structure</td>
+        <td>AGAIN</td>
     </tr>
     <tr>
         <td></td>

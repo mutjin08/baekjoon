@@ -1,32 +1,33 @@
-def is_point(graph, k):
-    if len(graph[k])<2:
-        return "no"
-    else:
-        return "yes"
+# is_node 판단
+# root노드 or leaf노드
 
-def is_line():
+# 시간초과 해결
+# 1. solution 함수 없이 입력과 동시에 계산
+# 2. input 대신 sys.stdin.readline 활용
+
+import sys
+input = sys.stdin.readline
+
+def is_node(k, tree):
+    if len(tree[k])<2:
+        return "no"
     return "yes"
 
-def solution(graph, qlst):
-    for t, k in qlst:
-        if t==1:
-            print(is_point(graph, k))
-        elif t==2:
-            print(is_line())
-        else:
-            continue
+def is_edge(k, tree):
+    return "yes"
 
 n = int(input())
-graph = [[] for _ in range(n+1)]
+tree = [[] for _ in range(n+1)]
 for _ in range(n-1):
     a, b = map(int, input().split())
-    graph[a].append(b)
-    graph[b].append(a)
-
+    tree[a].append(b)
+    tree[b].append(a)
 
 q = int(input())
-qlst = []
-for _ in range(n-1):
-    qlst.append(map(int, input().split()))
-
-solution(graph, qlst)
+queries = []
+for _ in range(q):
+    t, k = map(int, input().split())
+    if t==1:
+        print(is_node(k, tree))
+    elif t==2:
+        print(is_edge(k, tree))
