@@ -1,35 +1,20 @@
-# dictionay
+# reverse inordered result
 
-def preorder(root, tree):
-    if root == '.':
+def solution(log, depth):
+    root = len(log)//2
+    tree[depth].append(log[root])
+
+    if len(log)==1:
         return
-    print(root, end="")
-    preorder(tree[root][0], tree)
-    preorder(tree[root][1], tree)
+    
+    solution(log[:root], depth+1)
+    solution(log[root+1:], depth+1)
 
-def inorder(root, tree):
-    if root == '.':
-        return
-    inorder(tree[root][0], tree)
-    print(root, end="")
-    inorder(tree[root][1], tree)
 
-def postorder(root, tree):
-    if root == '.':
-        return
-    postorder(tree[root][0], tree)
-    postorder(tree[root][1], tree)
-    print(root, end="")
+k = int(input())
+log = list(map(int, input().split()))
+tree = [[] for _ in range(k)]
 
-n = int(input())
-tree = {}
-for _ in range(n):
-    p, lc, rc = input().split()
-    tree[p] = [lc, rc]
-
-root = 'A'
-preorder(root, tree)
-print()
-inorder(root, tree)
-print()
-postorder(root, tree)
+solution(log, 0)
+for t in tree:
+    print(*t)
