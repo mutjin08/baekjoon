@@ -15,7 +15,7 @@ https://github.com/tony9402/baekjoon/tree/main/tree<br>
     </tr>
     <tr>
         <td></td>
-        <td>?</td>
+        <td></td>
         <td>https://www.acmicpc.net/problem/</td>
         <td></td>
         <td>tree</td>
@@ -38,16 +38,16 @@ https://github.com/tony9402/baekjoon/tree/main/tree<br>
         <td>트리의 부모 찾기</td>
         <td>https://www.acmicpc.net/problem/11725</td>
         <td>실버2</td>
-        <td>tree</td>
-        <td>link</td>
+        <td>dfs, bfs</td>
+        <td>NO</td>
     </tr>
     <tr>
         <td>1991</td>
         <td>트리 순회</td>
         <td>https://www.acmicpc.net/problem/1991</td>
         <td>실버1</td>
-        <td>tree</td>
-        <td>link</td>
+        <td>recursion</td>
+        <td>NO</td>
     </tr>
     <tr>
         <td>9934</td>

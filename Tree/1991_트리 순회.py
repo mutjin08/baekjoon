@@ -1,30 +1,35 @@
-def preorder(v):
-    if v!=".":
-        print(v, end = "")
-        preorder(graph[v][0])
-        preorder(graph[v][1])
+# dictionay
 
-def inorder(v):
-    if v!=".":
-        inorder(graph[v][0])
-        print(v, end = "")
-        inorder(graph[v][1])
+def preorder(root, tree):
+    if root == '.':
+        return
+    print(root, end="")
+    preorder(tree[root][0], tree)
+    preorder(tree[root][1], tree)
 
-def postorder(v):
-    if v!=".":
-        postorder(graph[v][0])
-        postorder(graph[v][1])
-        print(v, end = "")
+def inorder(root, tree):
+    if root == '.':
+        return
+    inorder(tree[root][0], tree)
+    print(root, end="")
+    inorder(tree[root][1], tree)
+
+def postorder(root, tree):
+    if root == '.':
+        return
+    postorder(tree[root][0], tree)
+    postorder(tree[root][1], tree)
+    print(root, end="")
 
 n = int(input())
-
-graph = {}
+tree = {}
 for _ in range(n):
-    a, b, c = input().split()
-    graph[a] = [b, c]
+    p, lc, rc = input().split()
+    tree[p] = [lc, rc]
 
-preorder('A')
+root = 'A'
+preorder(root, tree)
 print()
-inorder('A')
+inorder(root, tree)
 print()
-postorder('A')
+postorder(root, tree)
