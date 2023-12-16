@@ -22,10 +22,10 @@ https://github.com/tony9402/baekjoon/tree/main/math<br>
         <td>AGAIN</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td>https://www.acmicpc.net/problem/</td>
-        <td>실버</td>
+        <td>2690</td>
+        <td>에라토스테네스의 체</td>
+        <td>https://www.acmicpc.net/problem/2690</td>
+        <td>실버4</td>
         <td>Math</td>
         <td></td>
     </tr>
