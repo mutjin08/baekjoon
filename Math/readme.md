@@ -54,18 +54,18 @@ https://github.com/tony9402/baekjoon/tree/main/math<br>
         <td>AGAIN</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td>https://www.acmicpc.net/problem/</td>
-        <td>실버</td>
-        <td>Math</td>
-        <td></td>
+        <td>21919</td>
+        <td>소수 최소 공배수</td>
+        <td>https://www.acmicpc.net/problem/21919</td>
+        <td>실버3</td>
+        <td>lcm, prime</td>
+        <td>AGAIN</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td>https://www.acmicpc.net/problem/</td>
-        <td>실버</td>
+        <td>21275</td>
+        <td>폰 호석만</td>
+        <td>https://www.acmicpc.net/problem/21275</td>
+        <td>실버2</td>
         <td>Math</td>
         <td></td>
     </tr>
