@@ -1,15 +1,13 @@
-def solution(n, max_weights):
+def solution(n, limits):
     answer = 0
-    max_weights.sort(reverse = True)
-
+    limits.sort(reverse = True)
     for i in range(n):
-        answer = max(answer, max_weights[i]*(i+1))
-    
+        answer = max(answer, limits[i]*(i+1))
     return answer
 
 
 n = int(input())
-max_weights = []
+limits = []
 for _ in range(n):
-    max_weights.append(int(input()))
-print(solution(n, max_weights))
+    limits.append(int(input()))
+print(solution(n, limits))

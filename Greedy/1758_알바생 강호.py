@@ -1,12 +1,13 @@
-def solution(n, tips):
-    tips.sort(reverse = True)
-    total = 0
+def solution(n, limits):
+    answer = 0
+    limits.sort(reverse = True)
     for i in range(n):
-        total += max(0, tips[i] - i)
-    return total
+        answer = max(answer, limits[i]*(i+1))
+    return answer
+
 
 n = int(input())
-tips = []
+limits = []
 for _ in range(n):
-    tips.append(int(input()))
-print(solution(n, tips))
+    limits.append(int(input()))
+print(solution(n, limits))

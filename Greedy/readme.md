@@ -43,7 +43,7 @@ https://github.com/tony9402/baekjoon/tree/main/greedy<br>
         <td>https://www.acmicpc.net/problem/1758</td>
         <td>실버4</td>
         <td>greedy</td>
-        <td>AGAIN</td>
+        <td>NO</td>
     </tr>
     <tr>
         <td>11399</td>
@@ -51,7 +51,7 @@ https://github.com/tony9402/baekjoon/tree/main/greedy<br>
         <td>https://www.acmicpc.net/problem/11399</td>
         <td>실버</td>
         <td>greedy</td>
-        <td>AGAIN</td>
+        <td>NO</td>
     </tr>
     <tr>
         <td></td>
