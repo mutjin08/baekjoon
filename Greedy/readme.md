@@ -94,26 +94,26 @@ https://github.com/tony9402/baekjoon/tree/main/greedy<br>
         <td>NO</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td>https://www.acmicpc.net/problem/</td>
-        <td>실버</td>
+        <td>20365</td>
+        <td>블로그2</td>
+        <td>https://www.acmicpc.net/problem/20365</td>
+        <td>실버3</td>
         <td>greedy</td>
         <td></td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td>https://www.acmicpc.net/problem/</td>
-        <td>실버</td>
+        <td>1541</td>
+        <td>잃어버린 괄호</td>
+        <td>https://www.acmicpc.net/problem/1541</td>
+        <td>실버2</td>
         <td>greedy</td>
         <td></td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td>https://www.acmicpc.net/problem/</td>
-        <td>실버</td>
+        <td>16953</td>
+        <td>A-B</td>
+        <td>https://www.acmicpc.net/problem/16953</td>
+        <td>실버2</td>
         <td>greedy</td>
         <td></td>
     </tr>
