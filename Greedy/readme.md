@@ -19,7 +19,7 @@ https://github.com/tony9402/baekjoon/tree/main/greedy<br>
         <td>https://www.acmicpc.net/problem/14916</td>
         <td>실버5</td>
         <td>greedy</td>
-        <td>AGAIN</td>
+        <td>1</td>
     </tr>
     <tr>
         <td>1343</td>
@@ -27,7 +27,7 @@ https://github.com/tony9402/baekjoon/tree/main/greedy<br>
         <td>https://www.acmicpc.net/problem/1343</td>
         <td>실버5</td>
         <td>greedy</td>
-        <td>AGAIN</td>
+        <td>1</td>
     </tr>
     <tr>
         <td>2217</td>
@@ -35,7 +35,7 @@ https://github.com/tony9402/baekjoon/tree/main/greedy<br>
         <td>https://www.acmicpc.net/problem/2217</td>
         <td>실버4</td>
         <td>greedy</td>
-        <td>AGAIN</td>
+        <td>1</td>
     </tr>
     <tr>
         <td>1758</td>
@@ -50,6 +50,46 @@ https://github.com/tony9402/baekjoon/tree/main/greedy<br>
         <td>ATM</td>
         <td>https://www.acmicpc.net/problem/11399</td>
         <td>실버</td>
+        <td>greedy</td>
+        <td>NO</td>
+    </tr>
+    <tr>
+        <td>11508</td>
+        <td>2+1 세일</td>
+        <td>https://www.acmicpc.net/problem/11508</td>
+        <td>실버4</td>
+        <td>greedy</td>
+        <td>AGAIN</td>
+    </tr>
+    <tr>
+        <td>11047</td>
+        <td>동전 0</td>
+        <td>https://www.acmicpc.net/problem/동전 0</td>
+        <td>실버4</td>
+        <td>greedy</td>
+        <td>NO</td>
+    </tr>
+    <tr>
+        <td>13305</td>
+        <td>주유소</td>
+        <td>https://www.acmicpc.net/problem/13305</td>
+        <td>실버3</td>
+        <td>greedy</td>
+        <td>AGAIN</td>
+    </tr>
+    <tr>
+        <td>20115</td>
+        <td>에너지 드링크</td>
+        <td>https://www.acmicpc.net/problem/20115</td>
+        <td>실버3</td>
+        <td>greedy</td>
+        <td>NO</td>
+    </tr>
+    <tr>
+        <td>20300</td>
+        <td>서강근육맨</td>
+        <td>https://www.acmicpc.net/problem/20300</td>
+        <td>실버3</td>
         <td>greedy</td>
         <td>NO</td>
     </tr>
