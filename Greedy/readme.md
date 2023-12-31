@@ -111,25 +111,25 @@ https://github.com/tony9402/baekjoon/tree/main/greedy<br>
     </tr>
     <tr>
         <td>16953</td>
-        <td>A-B</td>
+        <td>A → B</td>
         <td>https://www.acmicpc.net/problem/16953</td>
         <td>실버2</td>
         <td>greedy</td>
         <td></td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td>https://www.acmicpc.net/problem/</td>
-        <td>실버</td>
+        <td>21314</td>
+        <td>민겸 수</td>
+        <td>https://www.acmicpc.net/problem/21314</td>
+        <td>실버1</td>
         <td>greedy</td>
         <td></td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td>https://www.acmicpc.net/problem/</td>
-        <td>실버</td>
+        <td>1931</td>
+        <td>회의실 배정</td>
+        <td>https://www.acmicpc.net/problem/1931</td>
+        <td>실버1</td>
         <td>greedy</td>
         <td></td>
     </tr>
