@@ -21,4 +21,36 @@ https://github.com/tony9402/baekjoon/tree/main/dynamic_programming_1<br>
         <td>Dynamic Programming</td>
         <td></td>
     </tr>
+    <tr>
+        <td>9655</td>
+        <td>돌 게임</td>
+        <td>https://www.acmicpc.net/problem/9655</td>
+        <td>실버5</td>
+        <td>Dynamic Programming</td>
+        <td>NO</td>
+    </tr>
+    <tr>
+        <td>2839</td>
+        <td>설탕 배달</td>
+        <td>https://www.acmicpc.net/problem/2839</td>
+        <td>실버4</td>
+        <td>Dynamic Programming</td>
+        <td>AGAIN</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>https://www.acmicpc.net/problem/</td>
+        <td>실버</td>
+        <td>Dynamic Programming</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td></td>
+        <td>https://www.acmicpc.net/problem/</td>
+        <td>실버</td>
+        <td>Dynamic Programming</td>
+        <td></td>
+    </tr>
 </table>
