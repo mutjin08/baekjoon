@@ -1,4 +1,4 @@
-<h1>Greedy</h1>
+<h1>sample code</h1>
 
 <h2>Lecture</h2>
 https://github.com/tony9402/baekjoon/tree/main/greedy<br>
