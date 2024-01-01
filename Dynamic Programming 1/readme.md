@@ -38,10 +38,10 @@ https://github.com/tony9402/baekjoon/tree/main/dynamic_programming_1<br>
         <td>AGAIN</td>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td>https://www.acmicpc.net/problem/</td>
-        <td>실버</td>
+        <td>17626</td>
+        <td>Four Squares</td>
+        <td>https://www.acmicpc.net/problem/17626</td>
+        <td>실버3</td>
         <td>Dynamic Programming</td>
         <td></td>
     </tr>
