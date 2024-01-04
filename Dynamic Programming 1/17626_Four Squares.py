@@ -1,17 +1,14 @@
-from itertools import combinations
 def solution(n):
-    if (n**0.5)%1==0:
+    if n**0.5%1==0:
         return 1
-        
-    nums = []
-    for i in range(1, int(n**0.5)+1):
-        nums.append(i**2)
     
-    for i in range(2, 5):
-        for case in combinations(nums, i):
-            if sum(case)==n:
-                return i
-    return -1
+    dp = [4 for _ in range(n+1)]
+    dp[0], dp[1] = 0, 1
+    for i in range(2, n+1):
+        for j in range(1, int(i**0.5)+1):
+            dp[i] = min(dp[i], dp[i-j**2]+1)
+    return dp[n]
 
+        
 n = int(input())
 print(solution(n))
