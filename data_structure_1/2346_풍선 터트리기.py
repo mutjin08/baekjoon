@@ -19,11 +19,12 @@ while balloons:
     pin += paper
     if paper > 0:
         pin -= 1
-    while pin >= len(balloons):
+    pin %= balloons
+"""    while pin >= len(balloons):
         pin -= len(balloons)
     while pin < 0:
         pin += len(balloons)
-
+"""
 
 print(" ".join(map(str, answer)))
     
