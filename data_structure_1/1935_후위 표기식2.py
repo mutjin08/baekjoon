@@ -1,36 +1,42 @@
-def calculate(a, b, t):
-    a, b = int(a), int(b)
-    if t == "+":
+def calculate(b, a, operator):
+
+    if operator == "+":
         return a+b
-    elif t == "-":
+    
+    elif operator == "-":
         return a-b
-    elif t == "*":
+
+    elif operator == "*":
         return a*b
-    elif t == "/":
+
+    elif operator == "/":
         return a/b
+
     else:
         return -1
 
-from collections import deque
+
 
 n = int(input())
-target = list(input())
+exp = input()
 
-numbers = []
+#replace
+
+alp_to_num = {}
+pin = 0
 for _ in range(n):
-    numbers.append(input())
-numbers = deque(numbers)
+    alp_to_num[exp[pin]] = float(input())
 
-# replace
-for i in range(len(target)):
-    if target[i].isalpha():
-        target[i] = numbers.popleft()
+    pin+=1
+    while pin<len(exp) and not exp[pin].isalpha():
+        pin+=1
+
 
 s = []
-for t in target:
-    if t.isdigit():
-        s.append(t)
+for e in exp:
+    if e.isalpha():
+        s.append(alp_to_num[e])
     else:
-        s.append(calculate(s.pop(), s.pop(), t))
-    
-    print(s)
+        s.append(calculate(s.pop(), s.pop(), e))
+
+print("{0:.2f}".format(s[0]))
